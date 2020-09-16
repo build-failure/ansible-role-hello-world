@@ -14,5 +14,5 @@ galaxy_info:
       versions:
         - all
   galaxy_tags:
-    - hello_world
+    - helloworld
 dependencies: []

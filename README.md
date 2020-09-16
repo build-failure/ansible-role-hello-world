@@ -1,8 +1,8 @@
 [![Build Status](https://travis-ci.org/build-failure/ansible-role-hello-world.svg?branch=master)](https://travis-ci.org/build-failure/ansible-role-hello-world)
 [![Ansible Galaxy](https://img.shields.io/badge/role-build_failure.hello_world-blue.svg)](https://galaxy.ansible.com/build_failure/hello_world/)
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/build-failure/ansible-role-hello-world)](https://galaxy.ansible.com/build_failure/hello_world)
-[![Ansible Galaxy Quality Score](https://img.shields.io/ansible/quality/49634)](https://galaxy.ansible.com/build_failure/hello_world/)
-[![Ansible Galaxy Downloads](https://img.shields.io/ansible/role/d/48974.svg?color=blue)](https://galaxy.ansible.com/build_failure/hello_world/)
+[![Ansible Galaxy Quality Score](https://img.shields.io/ansible/quality/50750)](https://galaxy.ansible.com/build_failure/hello_world/)
+[![Ansible Galaxy Downloads](https://img.shields.io/ansible/role/d/50750.svg?color=blue)](https://galaxy.ansible.com/build_failure/hello_world/)
 
 # Ansible Role: Hello World
 
